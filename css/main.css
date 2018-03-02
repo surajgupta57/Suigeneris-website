@@ -50,7 +50,7 @@ h1
 .icon{
     color: black;
     font-size: 2rem;
-    
+
 }
 .jumbotron{
 	background-image:url("jombotron.jpg");
@@ -66,7 +66,7 @@ h1
     padding: 32px;
 }
 
-.hr1 { 
+.hr1 {
     display: block;
     margin-top:-0.6em;
     margin-bottom: 0.5em;
@@ -75,7 +75,7 @@ h1
     border-style: inset;
     border-width: 1px;
 }
-	
+
 p
 {
     text-align: justify;
@@ -112,7 +112,7 @@ p
 		-webkit-animation: 3s arrow infinite ease;
 		animation:3s arrow infinite ease;
 		}
-		
+
  @-webkit-keyframes arrow{
 	0%, 100%{
 		top:50px;
@@ -121,7 +121,7 @@ p
 		top:80px;
 		}
 	}
-			
+
 @keyframes arrow{
 	0%, 100%{
 		top:50px;
@@ -134,7 +134,7 @@ p
 .secdata {
 width: 20rem;
 }
-.grad1 
+.grad1
 {
     height: 280px;
     background: grey; /* For browsers that do not support gradients */
@@ -233,7 +233,7 @@ dropdown
 	border-right:none;
 	border-left:none;
 	}
-	
+
 table
 {
     border-collapse: collapse;
@@ -266,7 +266,7 @@ tr:nth-child(even) {background-color:#f2f2f2}
     padding-right: 3px;
     border:1px solid white;
     border-bottom-color:white;
-    border-top-color:white; 
+    border-top-color:white;
 }
 .k:hover
 {
@@ -287,7 +287,7 @@ tr:nth-child(even) {background-color:#f2f2f2}
 
 /*sahoverm*/
 .sahoverm {
-   
+
     width: 30%;
 	cursor:pointer;
 }
@@ -309,7 +309,7 @@ tr:nth-child(even) {background-color:#f2f2f2}
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
- 
+
 }
 
 .sahoverm:hover .image {
@@ -320,7 +320,7 @@ margin-top:50%;
 }
 
 .sahoverm:hover .middle {
-	
+
   opacity: 1;
 }
 /*images-alumini*/
